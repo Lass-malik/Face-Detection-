@@ -1,2 +1,2 @@
-streamlit
-cv2
+opencv-python-headless
+numpy
