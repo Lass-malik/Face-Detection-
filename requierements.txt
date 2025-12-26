@@ -1,6 +1,7 @@
-opencv-python==4.12.0.88
+opencv-python-headless
 streamlit
 opencv-python
 numpy
+
 
 
